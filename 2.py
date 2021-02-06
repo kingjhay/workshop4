@@ -38,3 +38,30 @@ for number in number_list:
     else:
         mod_number.append(1)
 print ("mod_number",mod_number)
+#จงแสดง "rat"
+animal = ["cat", "bat", "rat", "dog"]
+print(______)
+
+#จงแก้ไขข้อมูลจาก "cat" เป็น "hen"
+animal = ["cat", "bat", "rat", "dog"]
+_______ = _______
+
+#จงเพิ่ม "hen" ไปยัง animal list
+animal = ["cat", "bat", "rat", "dog"]
+_______
+
+#จงเพิ่ม "hen" ไประหว่าง "rat" กับ "ิิdog"
+animal = ["cat", "bat", "rat", "dog"]
+_______
+
+#จงลบ "rat" จาก list
+animal = ["cat", "bat", "rat", "dog"]
+_______
+
+#จงแสดงตัวสุดท้ายของ animal
+animal = ["cat", "bat", "rat", "dog"]
+_______
+
+#จงแสดงจำนวนของ animal
+animal = ["cat", "bat", "rat", "dog"]
+_______
